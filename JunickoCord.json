@@ -2,7 +2,8 @@
     "manifest": {
         "version": "1.0.0",
         "name": "JunickoCord",
-        "author": "gshhsbshznJsksjsk#1544"
+        "author": "gshhsbshznJsksjsk#1544",
+        "updater": "https:\/\/raw.githubusercontent.com\/Junickolol\/JunickoCord-AliuCord\/"
     },
     "background": {
         "url": "https:\/\/media.discordapp.net\/attachments\/909435427839180803\/978708202885619762\/output-onlinepngtools-modified.jpg",
